@@ -4,8 +4,6 @@
   font-size: small;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   box-shadow: 10px 15px rgb(58, 56, 56);
-
-  height: auto;
-  padding: 30px;
   text-align: center;
+  width: 30rem;
 }
